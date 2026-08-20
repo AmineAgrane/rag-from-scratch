@@ -1,0 +1,13 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# jupyter
+.ipynb_checkpoints/
+
+# local vector store data (created by Chroma at runtime)
+chroma_db/
