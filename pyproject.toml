@@ -18,10 +18,12 @@ dependencies = [
     "langsmith>=0.11.0",
     "pandas>=3.0.5",
     "python-dotenv>=1.2.3",
+    "pytubefix>=11.1.0",
     "sentence-transformers>=5.7.0",
     "tiktoken>=0.13.0",
     "torch>=2.13.0",
     "transformers>=5.15.0",
+    "youtube-transcript-api>=1.2.4",
 ]
 
 [tool.uv.sources]
